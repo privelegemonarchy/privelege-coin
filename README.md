@@ -7,17 +7,24 @@ An ethereum standard token for Privelege Coin
 Table of Contents
 
 Token Contract Information
+
 How To Watch The Token Contract In Ethereum Wallet / Mist
+
 How To Watch The Token In Ethereum Wallet / Mist
+
 Counterparty To Ethereum Token Converter
 
 
 Token Contract Information
 
 Symbol: Crown / XPV
+
 Name: Privelege Coin
+
 Address: 0x98cfA36850a37791edDe18e641A5D44164fd3d39
+
 Decimal places: 18 
+
 Total supply: 3 000 000 000 
 
 How To Watch The Token In Ethereum Wallet / Mist

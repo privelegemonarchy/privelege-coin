@@ -19,6 +19,7 @@ Name: Privelege Coin
 Address: 0x98cfA36850a37791edDe18e641A5D44164fd3d39
 Decimal places: 18 
 Total supply: 3 000 000 000 
+
 How To Watch The Token In Ethereum Wallet / Mist
 
 In Ethereum Wallet / Mist, select the CONTRACTS tab and click WATCH TOKEN to open the Add token window. Then:

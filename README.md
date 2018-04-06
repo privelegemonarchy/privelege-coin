@@ -21,7 +21,7 @@ Symbol: Crown / XPV
 
 Name: Privelege Coin
 
-Address: 0x98cfA36850a37791edDe18e641A5D44164fd3d39
+Address: 0x8CCeE73d552c87c36432d3B222098BB58B0f7bFd
 
 Decimal places: 18 
 
@@ -31,7 +31,7 @@ How To Watch The Token In Ethereum Wallet / Mist
 
 In Ethereum Wallet / Mist, select the CONTRACTS tab and click WATCH TOKEN to open the Add token window. Then:
 
-Under TOKEN CONTRACT ADDRESS, enter 0x98cfA36850a37791edDe18e641A5D44164fd3d39. The additional fields should automatically be filled in.
+Under TOKEN CONTRACT ADDRESS, enter 0x8CCeE73d552c87c36432d3B222098BB58B0f7bFd. The additional fields should automatically be filled in.
 
 Click OK
 
@@ -41,7 +41,7 @@ In Ethereum Wallet / Mist, select the CONTRACTS tab and click WATCH CONTRACT to 
 
 Under CONTRACT NAME, enter Privelege Coin
 
-Under CONTRACT ADDRESS, enter 0x98cfA36850a37791edDe18e641A5D44164fd3d39`
+Under CONTRACT ADDRESS, enter 0x8CCeE73d552c87c36432d3B222098BB58B0f7bFd`
 
 Copy the Standard ERC20 Application Binary Interface below and paste it into the JSON INTERFACE text box
 
